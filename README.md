@@ -36,5 +36,5 @@ The development followed the **6D methodology**:
 
 ### 💻 **Technologies Used**
 - Language: Java  
-- IDE: [your IDE, e.g., IntelliJ IDEA, NetBeans, VS Code]  
+- IDE: NetBeans 
 - Input/Output: Console-based  
