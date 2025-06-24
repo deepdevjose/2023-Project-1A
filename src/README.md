@@ -20,12 +20,12 @@ Each problem was addressed using the **6D methodology**:
 
 | Problem | Description | Path |
 |---------|-------------|------|
-| 🟦 Problem 1 | Line equation and angle with the horizontal axis | [`src/complete_program_compendium/ex_1`](./src/complete_program_compendium/ex_1) |
-| 🟪 Problem 2 | Solving quadratic equations with real or complex roots | [`src/complete_program_compendium/ex_2`](./src/complete_program_compendium/ex_2) |
-| 🟩 Problem 3 | Determine whether a point is inside a circle | [`src/complete_program_compendium/ex_3`](./src/complete_program_compendium/ex_3) |
-| 🟨 Problem 4 | Convert a decimal number to binary (with two’s complement) | [`src/complete_program_compendium/ex_4`](./src/complete_program_compendium/ex_4) |
-| 🟥 Problem 5 | Convert a binary number to decimal | [`src/complete_program_compendium/ex_5`](./src/complete_program_compendium/ex_5) |
-| 🟧 Problem 6 | Generate a Boolean expression from a truth table | [`src/complete_program_compendium/ex_6`](./src/complete_program_compendium/ex_6) |
+| 🟦 Problem 1 | Line equation and angle with the horizontal axis | [`ex_1`](./ex_1) |
+| 🟪 Problem 2 | Solving quadratic equations with real or complex roots | [`ex_2`](./ex_2) |
+| 🟩 Problem 3 | Determine whether a point is inside a circle | [`ex_3`](./ex_3) |
+| 🟨 Problem 4 | Convert a decimal number to binary (with two’s complement) | [`ex_4`](./ex_4)|
+| 🟥 Problem 5 | Convert a binary number to decimal | [`ex_5`](./ex_5) |
+| 🟧 Problem 6 | Generate a Boolean expression from a truth table | [`ex_6`](./ex_6) |
 
 ---
 
