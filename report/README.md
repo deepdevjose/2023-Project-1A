@@ -1,8 +1,8 @@
 ## 🧩 First Semester Integrative Project  
 ### 🛠️ Engineering Problem-Solving Software  
-### 📊 PowerPoint Presentation  
+### 📄 LaTeX Report
 
-This folder contains the final deliverables of the **First Semester Integrative Project**.
+This folder contains the final written report for the **First Semester Integrative Project**, prepared using **LaTeX**.
 
-- The presentation slides are included in the **PowerPoint file**.
-- The final written report is compiled from `main.tex` and the result can be found in `main.pdf`.
+- The main source file is `main.tex`.
+- The compiled version of the report can be found in `main.pdf`.
